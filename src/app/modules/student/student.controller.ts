@@ -1,5 +1,5 @@
 import { StudentServices } from './student.service';
-import sendResponse from '../../utils/sendRespose';
+import sendResponse from '../../utils/sendResponse';
 import httpStatus from 'http-status';
 import catchAsync from '../../utils/catchAsync';
 
